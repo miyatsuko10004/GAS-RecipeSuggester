@@ -1,0 +1,12 @@
+# clasp files
+.clasp.json
+.clasprc
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables (if used for local testing)
+.env
+
+# Logs
+*.log
